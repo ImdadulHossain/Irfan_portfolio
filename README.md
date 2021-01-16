@@ -14,4 +14,7 @@ GETTING STARTED
 3 - Create superuser
     python manage.py createsuperuser
     
-![](static/images/personal-blog.jpg)
+https://porasunayhb.herokuapp.com/
+
+user : irfanhossain2025@gmail.com
+pass : irfan123456
